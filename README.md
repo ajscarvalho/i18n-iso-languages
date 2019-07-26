@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/cospired/i18n-iso-languages.svg?branch=master)](https://travis-ci.org/cospired/i18n-iso-languages)
+[![npm version](https://badge.fury.io/js/%40cospired%2Fi18n-iso-languages.svg)](https://badge.fury.io/js/%40cospired%2Fi18n-iso-languages)
+[![Maintainability](https://api.codeclimate.com/v1/badges/31071476c2117e90d6fe/maintainability)](https://codeclimate.com/github/cospired/i18n-iso-languages/maintainability)
 
 # i18n-iso-languages
 
@@ -46,12 +48,19 @@ console.log(languages.getNames("en")); // { 'ab': 'Abkhazian', 'aa': 'Afar', [..
 * `cs`: Czech (based on https://cs.wikipedia.org/wiki/Seznam_kódů_ISO_639-1)
 * `de`: German (by native speaker)
 * `en`: English (ISO 639-1 standard names)
+* `es`: Spanish (based on https://es.wikipedia.org/wiki/ISO_639-1)
+* `fi`: Finnish (based on https://kotoistus.fi/suositukset/suositukset-kielet-fi-koodi/)
 * `fr`: French (based on https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
 * `hu`: Hungarian (based on https://hu.wikipedia.org/wiki/ISO_639-1_nyelvkódok_listája)
 * `is`: Islandic (based on https://is.wikipedia.org/wiki/Listi_yfir_tungumálakóða_%C3%AD_ISO_639-1)
 * `lv`: Latvian (based on https://lv.wikipedia.org/wiki/ISO_639-1_kodu_saraksts)
 * `lt`: Lithuanian (based on https://lt.wikipedia.org/wiki/Sąrašas:ISO_639-1_kodai)
+* `nl`: Dutch (based on https://nl.wikipedia.org/wiki/Lijst_van_ISO_639-codes)
+* `pt`: Portuguese (European) (based on https://pt.wikipedia.org/wiki/ISO_639)
+* `ru`: Russian (by professional translator)
 * `sv`: Swedish (based on https://sv.wikipedia.org/wiki/ISO_639)
+* `pl`: Polish (based on https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Kody_j%C4%99zyk%C3%B3w)
+
 
 [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
